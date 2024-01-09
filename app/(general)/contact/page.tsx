@@ -8,7 +8,7 @@ export const metadata:Metadata ={
 export default function ContactPage(){
     return(
         <>
-            <span className='text-lg'>Pagina Contact</span>
+            <span className='text-7xl'>Pagina Contact</span>
         </>
     )
 }
